@@ -42,5 +42,3 @@ Ensure you have the following installed:
 - 🟢 **Node.js** (v14 or later)
 - 🍃 **MongoDB** (Local or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 
-ur-username/campus-event-manager.git
-   cd campus-event-manager
