@@ -1,52 +1,46 @@
-🎉 Campus Event Manager
+# 🎉 **Campus Event Manager**
 
-Campus Event Manager is a powerful and user-friendly web application designed to help students, faculty, and event organizers seamlessly create, manage, and attend events across a college or university campus.
+**Campus Event Manager** is a powerful and user-friendly web application designed to help **students**, **faculty**, and **event organizers** seamlessly create, manage, and attend events across a college or university campus.
 
-🚀 Features
+---
 
-📝 Create & Manage Events – Add event name, description, date, time, venue, and more.
+## 🚀 **Features**
 
-👥 User Roles – Separate access for students, faculty, and organizers.
+- 📝 **Create & Manage Events** – Add event name, description, date, time, venue, and more.
+- 👥 **User Roles** – Separate access for **students**, **faculty**, and **organizers**.
+- 📆 **Event Calendar** – View all upcoming events in a clean, organized calendar layout.
+- ✅ **RSVP & Registration** – Allow users to register, RSVP, and receive confirmation.
+- 🔔 **Email & In-App Notifications** – Get reminders and event updates instantly.
+- 🔍 **Search & Filters** – Easily find events by date, department, category, or keyword.
+- 📊 **Dashboard** – Organizers get stats on registrations, interest, and engagement.
 
-📆 Event Calendar – View all upcoming events in a clean, organized calendar layout.
+---
 
-✅ RSVP & Registration – Allow users to register, RSVP, and receive confirmation.
+## 🛠️ **Tech Stack**
 
-🔔 Email & In-App Notifications – Get reminders and event updates instantly.
+### **Frontend**
+- ⚛️ **React.js**
+- 🎨 **HTML, CSS, JavaScript**
+- 🅱️ **Bootstrap**
 
-🔍 Search & Filters – Easily find events by date, department, category, or keyword.
+### **Backend**
+- 🟩 **Node.js**
+- 🚂 **Express.js**
+- 🍃 **MongoDB** (with **Mongoose**)
 
-📊 Dashboard – Organizers get stats on registrations, interest, and engagement.
+### **Authentication**
+- 🔐 **JWT (JSON Web Token)**
+- 🛡️ **Passport.js**
 
-🛠️ Tech Stack
-Frontend
+---
 
-⚛️ React.js
+## 💻 **Installation**
 
-🎨 HTML, CSS, JavaScript
-
-🅱️ Bootstrap
-
-Backend
-
-🟩 Node.js
-
-🚂 Express.js
-
-🍃 MongoDB (with Mongoose)
-
-Authentication
-
-🔐 JWT (JSON Web Token)
-
-🛡️ Passport.js
-
-💻 Installation
-Prerequisites
-
+### **Prerequisites**
 Ensure you have the following installed:
 
-🟢 Node.js (v14 or later)
+- 🟢 **Node.js** (v14 or later)
+- 🍃 **MongoDB** (Local or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 
-🍃 MongoDB (Local or MongoDB Atlas)
-
+ur-username/campus-event-manager.git
+   cd campus-event-manager
